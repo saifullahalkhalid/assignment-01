@@ -60,8 +60,8 @@ color: white;
 margin: 0 auto;
     margin-top: 74px;
     width: 1140px;
-    height: 1393px;
-    
+    height: 1300px;
+
     
 }
 .web-dev-section-content{
@@ -69,7 +69,7 @@ margin: 0 auto;
 height: 1233px;
 margin:0 auto;
 
-margin: 80px;
+margin-top: 80px;
 
 
 }
@@ -237,7 +237,7 @@ margin: 1px 1px 1px 133px;
 /* my inspiration section styles start here*/
 .my-inspiration-section-container{  
     width: 1140px;
-    height: 777px;
+    height: 730px;
 
     margin: 0 auto;
     margin-top: 88px;
@@ -267,12 +267,182 @@ margin-top: 24px;
 height: 614px;
 
 
+
 }
 #video-content{
-    margin: 0 auto;
-    width: 1140px;
+
+width: 1140px;
     height: 614px;
     padding-top: 30px;
     padding-left: 30px;
+}
+
+.target-section-content{  
+    width: 1109px;
+    height: 463px;
+   
+    margin: 0 auto;
+    margin-top: 70px;
+
+}
+.target-section-01{  
+text-align: center;
+
+}
+.target-section-01 h2{ 
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+
+}
+.target-section-01 p{ 
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400; 
+    margin-top: 24px;
+    margin-bottom: 48px;
+
+}
+
+
+
+
+.target-section-02{  
+     width: 1109px;
+    height: 300px;
+ 
+    display: flex;
+
+}
+.html-container{
+    width: 364px;
+    height: 300px;
+ 
+    margin-right: 24px;
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+
+}
+.html-content{  
+width: 284px;
+height: 220px;
+
+margin: 40px;
+}
+.html-content h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 24px;
+
+}
+.html-content p{ 
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+.html-content a{  
+    
+  
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+.css-container{  
+    width: 364px;
+    height: 300px;
+  
+    margin-right: 24px;
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+}
+.css-content{ 
+    width: 284px;
+    height: 220px;
+
+    margin: 40px;
+    }
+
+    .css-content h3{ 
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 24px;
+        font-weight: 800;
+        margin-top: 24px;
+
+    }
+    .css-content p{  
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 16px;
+        font-weight: 400;
+        opacity: 0.7;
+        margin-top: 8px;
+        margin-bottom: 24px;
+
+    }
+    .css-content a{  
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 16px;
+        font-weight: 700;
+
+    }
+
+
+
+.Javascript-container{ 
+
+    width: 364px;
+    height: 300px;
+   
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+.Javascript-content{  
+    width: 284px;
+    height: 220px;
+
+    margin: 40px;
+    }
+    .Javascript-content h3{ 
+        color: rgb(13, 19, 33);
+        font-family: Azeret Mono;
+        font-size: 24px;
+        font-weight: 800;
+        margin-top: 24px;
+
+
+    }
+.Javascript-content p{  
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-top: 8px;
+    margin-bottom: 24px;
+
+}
+.Javascript-content a{ 
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+
+
 }
 
